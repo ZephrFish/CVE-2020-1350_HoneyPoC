@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-CVE-2020-1350",
+      "appliesTo": "CVE-2020-1350.exe",
+      "type": "launch"
+    }
+  ]
+}
